@@ -1,0 +1,11 @@
+.outerdiv {
+  border: 1px solid rgba(0, 0, 0, 0.116);
+  width: 100%;
+  height: 30rem;
+  margin: auto;
+  border-radius: 10px;
+  background-color: rgb(247, 239, 229);
+}
+#exampleFormControlInput1::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
